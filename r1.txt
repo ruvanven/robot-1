@@ -1,0 +1,22 @@
+MISSION REPORT
+---------------------------------
+RESULT || SUCCESS
+
+MAP:
+*.#.*
+.#.#.
+.#...
+...#^
+S....
+
+MOVES || 0
+BUMPS || 5
+BATTERY LEFT  || 74%
+
+ITEMS COLLECTED:
+(4, 2)
+
+COVERAGE: 30.0%
+
+FULL PATH:
+[(4, 0), (4, 1), (4, 2), (4, 3), (4, 4), (3, 4)]
